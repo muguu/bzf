@@ -6,6 +6,6 @@ Die Fragen können mit dem Tool Teach2000 (Windows - getestet mit Version 08.53)
 
 oder 
 
-mit der App miniTeach (Android) https://play.google.com/store/apps/details?id=com.vocatrain.miniTeachdirekt
+mit der App miniTeach (Android) https://play.google.com/store/apps/details?id=com.vocatrain.miniTeach
 
 direkt genutzt werden.
